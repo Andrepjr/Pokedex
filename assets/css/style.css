@@ -100,3 +100,12 @@ main{
     font-size: 0.9rem;
 }
 
+.footer{
+    display: block;
+    text-align: center;
+}
+
+.github{
+    width: 150px;
+}
+
